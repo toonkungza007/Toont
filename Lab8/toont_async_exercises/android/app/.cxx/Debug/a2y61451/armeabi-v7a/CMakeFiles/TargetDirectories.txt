@@ -1,0 +1,2 @@
+D:/toont/Toont/Lab8/toont_async_exercises/android/app/.cxx/Debug/a2y61451/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/toont/Toont/Lab8/toont_async_exercises/android/app/.cxx/Debug/a2y61451/armeabi-v7a/CMakeFiles/rebuild_cache.dir
